@@ -1,0 +1,6 @@
+python-dotenv==0.19.*
+fastapi==0.70.*
+pydantic==1.8.*
+uvicorn==0.15.*
+aiohttp==3.8.*
+black==21.11b1

@@ -1,0 +1,10 @@
+
+.vscode/
+
+venv/
+.idea
+.env
+__pycache__
+**/__pycache__
+app/resources/*.json
+app/resources/*.json*
